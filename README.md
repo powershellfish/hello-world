@@ -1,7 +1,4 @@
 # hello-world
 This is my first repository.
 
-Here's a little blurb about me. I love:
-* coffee, 
-* **cactuses** and 
-* *Colorado*. 
+This is where I plan on testing some of my more basic code that is project-agnostic. 
